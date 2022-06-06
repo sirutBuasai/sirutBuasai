@@ -1,5 +1,5 @@
 <div align="center">
-<header> Sirut "G" Buasai: 💻 | 🎮 | 🏋 | 🧋 | 🍍 <\header>
+<header> Sirut "G" Buasai: 💻 | 🎮 | 🏋 | 🧋 | 🍍 </eader>
 </div>
 
 <div align="center">
