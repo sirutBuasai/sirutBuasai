@@ -1,6 +1,5 @@
 <div align="center">
-<h1> 🧋Sirut "G" Buasai🍍 
-      💻 | 🎮 | 🏋</h1>
+<h1> 🧋Sirut "G" Buasai🍍 </h1>
 </div>
 
 <div align="center">
@@ -20,4 +19,5 @@ class G:
     self.last_name = 'Buasai'
     self.nickname = 'G'
     self.occupation = 'Software Engineer'
+    self.interests = [💻, 🎮, 🏋]
 ```
