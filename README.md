@@ -1,7 +1,7 @@
 # Sirut "G" Buasai: 💻 | 🎮 | 🏋 | 🧋 | 🍍
 
 <div align="center">
-<img height="150" src="github" />
+<img height="150" src="https://github.com/sirutBuasai/sirutBuasai/blob/master/obiwan_hello_there.gif" />
 </div>
 
 <p align="center">
