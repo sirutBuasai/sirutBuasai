@@ -1,8 +1,14 @@
-### H there 👋
-
 # Sirut "G" Buasai: 💻 | 🎮 | 🏋 | 🧋 | 🍍
---
-[Linkedin](https://www.linkedin.com/in/sirut-buasai) | [Email](mailto:sirutbuasai27@hotmail.com)
+
+<div align="center">
+<img height="150" src="github" />
+</div>
+
+<p align="center">
+<b><a href="https://www.linkedin.com/in/sirut-buasai">LinkedIn</a></b>
+•
+<b><a href="mailto:sirutbuasai27@hotmail.com">Email</a></b>
+</p>
 
 ```python
 class G:
