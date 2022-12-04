@@ -20,12 +20,6 @@
 <b><a href="mailto:sirutbuasai27@hotmail.com">Email</a></b>
 </p>
 
-```python
-class G:
-  def __init__(self):
-    self.first_name = 'Sirut'
-    self.last_name = 'Buasai'
-    self.nickname = 'G'
-    self.occupation = 'Software Engineer'
-    self.interests = [💻, 🎮, 🏋]
-```
+Hello!
+My name is Sirut Buasai but I usually go by G.
+I occasionnaly contribute to open source projects within the neovim plugin ecosystem.
