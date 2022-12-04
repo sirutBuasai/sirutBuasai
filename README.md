@@ -21,5 +21,7 @@
 </p>
 
 Hello!
+
 My name is Sirut Buasai but I usually go by G.
+
 I occasionnaly contribute to open source projects within the neovim plugin ecosystem.
