@@ -17,7 +17,7 @@
 <p align="center">
 <b><a href="https://www.linkedin.com/in/sirut-buasai">LinkedIn</a></b>
 •
-<b><a href="mailto:sirutbuasai27@hotmail.com">Email</a></b>
+<b><a href="mailto:sirutbuasai27@outlook.com">Email</a></b>
 </p>
 
 Hello!
