@@ -1,27 +1,26 @@
-<div align="center">
-<h1> 🍍Sirut "G" Buasai🧋 </h1>
-</div>
+##  🍍Sirut "G" Buasai🧋
 
-<div align="center">
-<img height="150" src="https://github.com/sirutBuasai/sirutBuasai/blob/master/obiwan_hello_there.gif" />
-</div>
+[![sirutBuasai's github stats](https://github-readme-stats.vercel.app/api?username=sirutBuasai&count_private=true&show_icons=true)](https://github.com/sirutBuasai)
 
-<p align="center">
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-<img src="https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
-</p>
-
-<p align="center">
-<b><a href="https://www.linkedin.com/in/sirut-buasai">LinkedIn</a></b>
-•
-<b><a href="mailto:sirutbuasai27@outlook.com">Email</a></b>
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirutBuasai&hide=php)](https://github.com/sirutBuasai)
 
 Hello!
 
 My name is Sirut Buasai but I usually go by G.
 
 I occasionally contribute to open source projects within the neovim plugin ecosystem.
+
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sirut-buasai) [Email](mailto:sirutbuasai27@outlook.com)
+
+<!--
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
