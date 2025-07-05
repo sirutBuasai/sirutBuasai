@@ -1,8 +1,8 @@
 ##  🍍Sirut "G" Buasai🧋
 
-[![sirutBuasai's github stats](https://github-readme-stats.vercel.app/api?username=sirutBuasai&count_private=true&show_icons=true)](https://github.com/sirutBuasai)
+[![sirutBuasai's Stats](https://github-readme-stats.vercel.app/api?username=sirutBuasai&theme=tokyonight&show_icons=true&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true)](https://github.com/sirutBuasai)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirutBuasai&hide=php)](https://github.com/sirutBuasai)
+[![sirutBuasai's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sirutBuasai&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)](https://github.com/sirutBuasai)
 
 Hello!
 
